@@ -1,0 +1,34 @@
+#msg {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-font-family: Inter;
+}
+
+#tf{
+    -fx-background-radius: 20 0 0 20;
+    -fx-font-size: 17;
+}
+
+#btn {
+    -fx-background-radius: 0 20 20 0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-color: #3b5998;
+}
+
+#scroll {
+    -fx-background-color: #dfe3ee;
+    -fx-background-radius: 10;
+    border-radius:10;
+
+}
+#vbox_messages {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-color: #dfe3ee;
+    -fx-border-radius: 10;
+    -fx-font-size: 15;
+}
+#txt {
+    -fx-font-size: 20px;
+}
